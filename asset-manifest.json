@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-scheduler-login-training/static/css/main.5763847e.css",
+    "main.js": "/task-scheduler-login-training/static/js/main.3dfbac78.js",
+    "index.html": "/task-scheduler-login-training/index.html",
+    "main.5763847e.css.map": "/task-scheduler-login-training/static/css/main.5763847e.css.map",
+    "main.3dfbac78.js.map": "/task-scheduler-login-training/static/js/main.3dfbac78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.3dfbac78.js"
+  ]
+}
