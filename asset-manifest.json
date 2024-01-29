@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/task-scheduler-login-training/static/css/main.5763847e.css",
-    "main.js": "/task-scheduler-login-training/static/js/main.3dfbac78.js",
+    "main.css": "/task-scheduler-login-training/static/css/main.a3d5bcbe.css",
+    "main.js": "/task-scheduler-login-training/static/js/main.5faee23e.js",
+    "static/js/266.0bbef6ea.chunk.js": "/task-scheduler-login-training/static/js/266.0bbef6ea.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/task-scheduler-login-training/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.98f1b29a.chunk.js": "/task-scheduler-login-training/static/js/40.98f1b29a.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/task-scheduler-login-training/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.e4bf3f61.chunk.js": "/task-scheduler-login-training/static/js/635.e4bf3f61.chunk.js",
+    "static/css/853.40e66e5b.chunk.css": "/task-scheduler-login-training/static/css/853.40e66e5b.chunk.css",
+    "static/js/853.001ee964.chunk.js": "/task-scheduler-login-training/static/js/853.001ee964.chunk.js",
+    "static/js/270.4c5f1a49.chunk.js": "/task-scheduler-login-training/static/js/270.4c5f1a49.chunk.js",
     "index.html": "/task-scheduler-login-training/index.html",
-    "main.5763847e.css.map": "/task-scheduler-login-training/static/css/main.5763847e.css.map",
-    "main.3dfbac78.js.map": "/task-scheduler-login-training/static/js/main.3dfbac78.js.map"
+    "main.a3d5bcbe.css.map": "/task-scheduler-login-training/static/css/main.a3d5bcbe.css.map",
+    "main.5faee23e.js.map": "/task-scheduler-login-training/static/js/main.5faee23e.js.map",
+    "266.0bbef6ea.chunk.js.map": "/task-scheduler-login-training/static/js/266.0bbef6ea.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/task-scheduler-login-training/static/css/40.1e05f24e.chunk.css.map",
+    "40.98f1b29a.chunk.js.map": "/task-scheduler-login-training/static/js/40.98f1b29a.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/task-scheduler-login-training/static/css/635.e2937cc9.chunk.css.map",
+    "635.e4bf3f61.chunk.js.map": "/task-scheduler-login-training/static/js/635.e4bf3f61.chunk.js.map",
+    "853.40e66e5b.chunk.css.map": "/task-scheduler-login-training/static/css/853.40e66e5b.chunk.css.map",
+    "853.001ee964.chunk.js.map": "/task-scheduler-login-training/static/js/853.001ee964.chunk.js.map",
+    "270.4c5f1a49.chunk.js.map": "/task-scheduler-login-training/static/js/270.4c5f1a49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5763847e.css",
-    "static/js/main.3dfbac78.js"
+    "static/css/main.a3d5bcbe.css",
+    "static/js/main.5faee23e.js"
   ]
 }
